@@ -4,6 +4,7 @@ Official implementation of "[RCL: Relation Contrastive Learning for Zero-Shot Re
 First, you can download the datasets employed in our work from the following link:
 - [SemEval2010 Task8](https://docs.google.com/document/d/1QO_CnmvNRnYwNWu1-QCAeR5ToQYkXUqFeAJbdEhsq7w/preview)
 - [FewRel](https://thunlp.github.io/1/fewrel1.html)
+
 Then, preprocess datas to same format as example file in the ./data folder.
 
 ## Dependencies
