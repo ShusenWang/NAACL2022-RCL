@@ -1,0 +1,29 @@
+seen nums: 5, unseen nums: 4
+              precision    recall  f1-score   support
+
+           1    0.94507   0.88924   0.91630       948
+           3    0.98126   0.93631   0.95826       895
+           5    0.87106   0.95883   0.91284       923
+           6    0.94837   0.95355   0.95095       732
+
+    accuracy                        0.93310      3498
+   macro avg    0.93644   0.93448   0.93459      3498
+weighted avg    0.93549   0.93310   0.93338      3498
+
+
+{
+    "test_labellist": [
+        "Content-Container",
+        "Message-Topic",
+        "Product-Producer",
+        "Member-Collection"
+    ],
+    "B3_F1": 0.8752342203414665,
+    "B3_precision": 0.875624648967965,
+    "B3_recall": 0.8748441397329788,
+    "NMI": 0.7944672851994625,
+    "ARI": 0.8271667844388764,
+    "Homogeneity": 0.7939718796793049,
+    "Completeness": 0.7949633093305994,
+    "V_measure": 0.7944672851994625
+}
